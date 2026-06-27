@@ -18,6 +18,7 @@ iPhone / iPad に標準搭載されている **「ショートカット」アプ
 6. [便利なショートカット集（レシピ）](docs/06-recipes.md) — コピペで試せる実例
 7. [困ったときは（トラブルシューティング）](docs/07-troubleshooting.md)
 8. [用語集](docs/08-glossary.md)
+9. [仕事効率化レシピ集](docs/09-work-efficiency.md) — 業務を自動化する実例集
 
 ## クイックスタート（3分で体験）
 
